@@ -1,0 +1,9 @@
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.pdb
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.Form1.resources
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.Properties.Resources.resources
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csproj.GenerateResource.cache
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
+D:\programme\github\VSTO\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
