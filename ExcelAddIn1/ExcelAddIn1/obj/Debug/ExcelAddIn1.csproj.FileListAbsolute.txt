@@ -1,0 +1,12 @@
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csprojAssemblyReference.cache
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.GenerateResource.cache
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.CopyComplete
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb
+D:\programme\github\VSTO\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Form1.resources
