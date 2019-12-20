@@ -1,0 +1,10 @@
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\bin\Debug\TryToGetExcel.exe.config
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\bin\Debug\TryToGetExcel.exe
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\bin\Debug\TryToGetExcel.pdb
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\obj\Debug\TryToGetExcel.csprojAssemblyReference.cache
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\obj\Debug\TryToGetExcel.csproj.ResolveComReference.cache
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\obj\Debug\TryToGetExcel.Form1.resources
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\obj\Debug\TryToGetExcel.Properties.Resources.resources
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\obj\Debug\TryToGetExcel.csproj.GenerateResource.cache
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\obj\Debug\TryToGetExcel.exe
+D:\programme\github\VSTO\TryToGetExcel\TryToGetExcel\obj\Debug\TryToGetExcel.pdb
