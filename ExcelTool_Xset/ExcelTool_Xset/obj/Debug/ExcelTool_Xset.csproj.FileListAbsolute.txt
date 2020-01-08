@@ -1,0 +1,12 @@
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\bin\Debug\ExcelTool_Xset.dll
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\bin\Debug\ExcelTool_Xset.pdb
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\bin\Debug\ExcelTool_Xset.dll.manifest
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\bin\Debug\ExcelTool_Xset.vsto
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\obj\Debug\ExcelTool_Xset.csprojAssemblyReference.cache
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\obj\Debug\ExcelTool_Xset.Form1.resources
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\obj\Debug\ExcelTool_Xset.Properties.Resources.resources
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\obj\Debug\ExcelTool_Xset.csproj.GenerateResource.cache
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\obj\Debug\ExcelTool_Xset.csproj.CopyComplete
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\obj\Debug\ExcelTool_Xset.dll
+D:\programme\github\VSTO\ExcelTool_Xset\ExcelTool_Xset\obj\Debug\ExcelTool_Xset.pdb
